@@ -17,9 +17,14 @@ and install pyicu.
 
 run
 
+```python
+> python thai2ipa.py
+Text : ผมเรียนอยู่ที่มหาวิทยาลัยขอนแก่นวิทยาเขตหนองคาย
+
+phǒm|rian|yùu|thîi|ma-hǎa-wít-tha-yaa-lay-khɔ̌ɔn-kɛ̀ɛn|wít-tha-yaa-khèet|nɔ̌ɔŋ-khaay
 ```
-python thai2ipa.py
-```
+
+
 
 ## About
 
